@@ -13,5 +13,3 @@ var bar = function() {
 };
 
 var fooo = 'bar';
-
-var baar = 'baar';
