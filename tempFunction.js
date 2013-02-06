@@ -11,3 +11,5 @@ var foo = function() {
 var bar = function() {
     console.log('bar');
 };
+
+var fooo = 'bar';
